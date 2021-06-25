@@ -2,6 +2,10 @@
 
 CLI tool to facilitate git clone in AWS CodeCommit
 
+
+![](./image.png)
+
+
 # Dependencies
 
 1. Python3 and pip3
